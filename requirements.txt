@@ -35,7 +35,7 @@ opt-einsum==3.3.0
 panda==0.3.1
 pandas==1.2.3
 pathlib==1.0.1
-Pillow==8.1.2
+Pillow==8.2.0
 promise==2.3
 prompt-toolkit==1.0.14
 protobuf==3.15.6
